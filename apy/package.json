@@ -1,0 +1,13 @@
+{
+  "name": "lab5-secure-app",
+  "version": "1.0.0",
+  "description": "Secure Node.js application",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "express": "^4.19.2"
+  }
+}
